@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fidget Spinner/ViewController.swift"
+            timestampString = "517927527.704065"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fidget_Spinner.ViewController.__deallocating_deinit"
+                  moduleName = "Fidget Spinner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya1998/Desktop/Fidget%20Spinner/Fidget%20Spinner/ViewController.swift"
+                  timestampString = "517931263.329029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fidget_Spinner.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Fidget_Spinner.ViewController"
+                  moduleName = "Fidget Spinner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya1998/Desktop/Fidget%20Spinner/Fidget%20Spinner/ViewController.swift"
+                  timestampString = "517931263.332196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fidget_Spinner.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Fidget_Spinner.ViewController"
+                  moduleName = "Fidget Spinner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya1998/Desktop/Fidget%20Spinner/Fidget%20Spinner/ViewController.swift"
+                  timestampString = "517931263.335262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fidget_Spinner.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Fidget_Spinner.ViewController&gt;"
+                  moduleName = "Fidget Spinner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya1998/Desktop/Fidget%20Spinner/Fidget%20Spinner/ViewController.swift"
+                  timestampString = "517931263.337892"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fidget_Spinner.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Fidget_Spinner.ViewController&gt;"
+                  moduleName = "Fidget Spinner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya1998/Desktop/Fidget%20Spinner/Fidget%20Spinner/ViewController.swift"
+                  timestampString = "517931263.340207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
